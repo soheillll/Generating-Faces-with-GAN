@@ -1,7 +1,7 @@
 # Generating-Faces-with-GAN
 Generating new faces based on the celebraties using tensorflow.
 
-
+ 
 Generated face result:
 
 <img src="./result/Generated faces.png" aligh="right">
