@@ -1,11 +1,15 @@
 # Generating-Faces-with-GAN
 Generating new faces based on the celebraties using tensorflow.
 Results:
+
+
 Generated face
 <img src="./result/Generated faces.png" aligh="right">
 
+
 Generated digits
-<img src="./result/generated digits.png" aligh="right">
+<img src="./result/generated digits.png" aligh="left">
+
 
 # Dataset:
 We'll be using two datasets in this project:
